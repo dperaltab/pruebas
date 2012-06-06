@@ -1,0 +1,10 @@
+- directorios web
+- page rank
+- dar de alta en los buscadores
+- dar de alta en los directorios web
+- outsourcing
+- SEO
+- webdav
+- errores 404 
+- Google Analytics
+
